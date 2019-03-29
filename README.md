@@ -1,6 +1,7 @@
-# microlottie
+# Micro emotions
 
-> My primo Nuxt.js project
+Experimenting with After effects, Lottie, Vue.js/Nuxt
+
 
 ## Build Setup
 
