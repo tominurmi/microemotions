@@ -3,6 +3,9 @@
 Experimenting with After effects, Lottie, Vue.js/Nuxt
 
 
+<img src="toggle.gif" width="400px" /> <img src="cashbag.gif" width="400px" />
+<img src="heart.gif" width="400px" /> <img src="star.gif" width="400px" />
+
 ## Build Setup
 
 ``` bash
