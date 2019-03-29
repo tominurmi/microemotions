@@ -1,6 +1,6 @@
 # Micro emotions
 
-Experimenting with After effects, Lottie, Vue.js/Nuxt
+Experimenting with After effects, Lottie and Vue.js/Nuxt
 
 
 <img src="toggle.gif" width="400px" /> <img src="cashbag.gif" width="400px" />
